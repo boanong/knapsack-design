@@ -1,0 +1,114 @@
+/* * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: #40d6ea;
+    height: 100vh;
+    padding: 70px;
+  }
+  
+  #form {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: #9c9c9cdd;
+    max-width: min-content;
+  }
+  
+  #p1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #030303;
+    max-width: 400px;
+  }
+  
+  label {
+    font-size: larger;
+  }
+  
+  .input {
+    width: 198px;
+    margin-bottom: 5px;
+    padding: 5px;
+  }
+  
+  .alert {
+    margin: 5px auto;
+  }
+  
+  .select {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .capa {
+    width: 500px;
+    padding: 10px;
+    height: 200px;
+    border: black solid;
+  }
+  
+  .stat {
+    width: 400px;
+    padding: 5px;
+    height: 30px;
+    border: black solid;
+  }
+  
+  .done {
+    width: 200px;
+    background-color: #ffaa00;
+    font-size: 15px;
+  }
+  
+  .display {
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    max-width: 400px;
+  }
+  
+  .max {
+    font-size: 20;
+    padding: 5px;
+    margin: 2px auto;
+  }
+  
+  #refill {
+    color: white;
+    background: #ffaa00;
+    border-radius: 5px;
+    padding: 3px 10px;
+    margin-bottom: 10px;
+  }
+  
+  .add {
+    width: 200px;
+    background-color: #ffaa00;
+    padding: 5px;
+    font-size: 15px;
+  }
+  
+  @media screen {
+    body {
+      display: block;
+    }
+    #form {
+      margin: auto;
+      text-align: center;
+    }
+  
+    .capa {
+      max-width: 80%;
+    }
+  } */
