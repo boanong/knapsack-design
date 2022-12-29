@@ -41,7 +41,7 @@ This project was taken as a learning tutorial to help build my JavaScript skills
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](git@github.com:boanong/knapsack-design.git)
+Feel free to check the [issues page](https://github.com/boanong/knapsack-design/issues)
 
 ## 📝 License (optional)
 
